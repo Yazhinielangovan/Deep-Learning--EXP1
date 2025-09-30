@@ -119,16 +119,23 @@ class Model(nn.Module):
 
 
 Dataset Information
-Include screenshot of the generated data
+<img width="471" height="843" alt="image" src="https://github.com/user-attachments/assets/048e0c17-1865-4827-9d41-96c08622b3ce" />
+
 
 
 **OUTPUT**
+<img width="866" height="609" alt="image" src="https://github.com/user-attachments/assets/d622cb77-2bb2-4a06-8fc7-d6dfbd63abb8" />
 
-Training Loss Vs Iteration Plot Best Fit line plot Include your plot here
 
 **New Sample Data Prediction**
 
-Include your sample input and output here
+<img width="578" height="68" alt="image" src="https://github.com/user-attachments/assets/8b292016-b223-4183-866a-25c41221ee61" />
+
+**Epoch Training:**
+<img width="763" height="327" alt="image" src="https://github.com/user-attachments/assets/ee7b9124-ebdf-45fd-86a4-a8e851ed0e84" />
+
+**Test Data Root Mean Squared Error:**
+<img width="794" height="57" alt="image" src="https://github.com/user-attachments/assets/68d2b0e0-163c-47f4-92b1-b011d71cf39a" />
 
 **RESULT**
 
